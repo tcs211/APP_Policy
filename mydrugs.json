@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Aminophylline",
+        "doseUnit": "mg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 0.5,
+        "reference": "The dose must be individualized according to serum theophylline level (10-20 mcg/mL).\nAdult: loading dose: 5.7 mg/kg over 30 min, maintenance: 0.5 mg/kg/hr, MAX dose 1125 mg/day"
+    },
+    {
+        "name": "Amiodarone",
+        "doseUnit": "mg/min",
+        "rateUnit": 0,
+        "drugAmount": 900.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 0.5,
+        "reference": "24-hours loading: 150mg first 10-minutes, then 1mg/minutes over next 6 hours, then 0.5mg/min over next 18 hours"
+    },
+    {
+        "name": "Atracurium",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 100.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "Continuous infusion: 5-10µg/kg/minute"
+    },
+    {
+        "name": "Cisatracurium",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 100.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 1.0,
+        "reference": "Continuous infusion: 1-3µg/kg/minute"
+    },
+    {
+        "name": "Clonidine",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 600.0,
+        "volume": 50.0,
+        "drugUnit": 2,
+        "defaultDose": 0.5,
+        "reference": "0.5-2mcg/kg/hr"
+    },
+    {
+        "name": "Dexmedetomidine",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 200.0,
+        "volume": 50.0,
+        "drugUnit": 2,
+        "defaultDose": 0.2,
+        "reference": "0.2- 1.5 mcg/kg/hour"
+    },
+    {
+        "name": "Diltiazem",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 100.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "Atrial fibrillation or atrial flutter: continued reduction of the heart rate (up to 24 hours), IV bolus of 20 mg (0.25 mg/kg), infusion rate: 5 mg/h to 15 mg/h as needed; Diltiazem/Cardizem"
+    },
+    {
+        "name": "Dobutamine",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "Dose: 2-20 µg/kg/minute"
+    },
+    {
+        "name": "Dopamine",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 800.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "Dose: 2-20 µg/kg/minute"
+    },
+    {
+        "name": "Epinephrine Bradycardia",
+        "doseUnit": "μg/min",
+        "rateUnit": 0,
+        "drugAmount": 1.0,
+        "volume": 250.0,
+        "drugUnit": 0,
+        "defaultDose": 2.0,
+        "reference": "IV infusion for bradycardia: run at 2-10 µg/min (titrated to effect); Epinephrine(Bradycardia)"
+    },
+    {
+        "name": "Epinephrine Hypotension",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 4.0,
+        "volume": 250.0,
+        "drugUnit": 0,
+        "defaultDose": 0.1,
+        "reference": "Post-cardiac arrest hypotension: The dosing is 0.1-0.5 µg/kg/min; Epinephrine(Hypotension)"
+    },
+    {
+        "name": "Esmolol",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 20.0,
+        "reference": "Loading Dose: 500 ug/kg IV direct over one minute Maintenance Dose: 20 -200 ug/kg/min IV infusion"
+    },
+    {
+        "name": "Fentanyl",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 10.0,
+        "drugUnit": 2,
+        "defaultDose": 1.0,
+        "reference": "1-2 mcg/kg/hr"
+    },
+    {
+        "name": "Furosemide",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 250.0,
+        "volume": 25.0,
+        "drugUnit": 0,
+        "defaultDose": 10.0,
+        "reference": "Usual dose range: 10-20 mg/hr (1-2 mL/hr). Maximum rate: 20 mg/hr (2 mL/hr). Maximum TOTAL dose in 24 hours: 480 mg (48 mL)."
+    },
+    {
+        "name": "Heparin",
+        "doseUnit": "unit/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 25000.0,
+        "volume": 500.0,
+        "drugUnit": 3,
+        "defaultDose": 12.0,
+        "reference": "UA/NSTEMI: 12-14 unit/kg/hour"
+    },
+    {
+        "name": "Insulin",
+        "doseUnit": "unit/hr",
+        "rateUnit": 0,
+        "drugAmount": 100.0,
+        "volume": 100.0,
+        "drugUnit": 3,
+        "defaultDose": 2.0,
+        "reference": "Adjust infusion rate according to your protocol. A simple example: glucose(mg/dl): dose(u/h) 110-140:1, 141-220:2, 221~300:3, 301~400:4, >400:6, finger stick q1h"
+    },
+    {
+        "name": "Isoprenaline",
+        "doseUnit": "μg/min",
+        "rateUnit": 0,
+        "drugAmount": 2.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 1.0,
+        "reference": "1-4mcg/min"
+    },
+    {
+        "name": "Ketamine",
+        "doseUnit": "mg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 200.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 0.3,
+        "reference": "for sedation and analgesia during procedures: 0.2 to 1.0 milligram/kilogram over 2 to 3 minutes, followed by continuous infusion of 0.3 - 1.2 mg/kg/hr as required"
+    },
+    {
+        "name": "Labetalol",
+        "doseUnit": "mg/min",
+        "rateUnit": 0,
+        "drugAmount": 200.0,
+        "volume": 200.0,
+        "drugUnit": 0,
+        "defaultDose": 1.0,
+        "reference": "Hypertensive Emergency: 20 mg IV over 2 minutes, then 40-80 mg IV q10min\nContinuous infusion: 1-2 mg/min"
+    },
+    {
+        "name": "Levosimendan",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 12.5,
+        "volume": 250.0,
+        "drugUnit": 0,
+        "defaultDose": 0.1,
+        "reference": "infusion at 0.1 micrograms /kg /min and continue for 24 hours"
+    },
+    {
+        "name": "Lidocaine",
+        "doseUnit": "mg/min",
+        "rateUnit": 0,
+        "drugAmount": 2000.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 1.0,
+        "reference": "Maintenance infusion: 1 to 4 mg/min\nCardiac Arrest from VT/VF: Initial dose: 1 to 1.5 mg/kg IV/IO\nFor refractory VF, stable VT, wide-complex tachycardia of uncertain type and significant ectopy may give additional 0.5 to 0.75 mg/kg IV push, repeat in 5 to 10 minutes, maximum 3 doses or total of 3mg/kg; Lidocaine"
+    },
+    {
+        "name": "Magnesium ACLS",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 2000.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 500.0,
+        "reference": "Cardiac arrest due to hypomagnesemia or torsades de pointes: 1 to 2 grams IV or IO (diluted in 10 ml of D5W or normal saline)\nTorsades with a pulse: a loading dose of 1 to 2 grams mixed in 50 to 100 ml of D5W or normal saline should be given IV over 5 to 60 minutes. This may be followed with a dose of 0.5 to 1 gram per hour IV, titrated to control torsades de pointes."
+    },
+    {
+        "name": "Metaraminol",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 20.0,
+        "volume": 40.0,
+        "drugUnit": 0,
+        "defaultDose": 2.0,
+        "reference": "infusion rate of 0-16ml/hr."
+    },
+    {
+        "name": "Midazolam",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 60.0,
+        "volume": 60.0,
+        "drugUnit": 0,
+        "defaultDose": 20.0,
+        "reference": "Sedation: 20-100 µg/kg/hour\nRefractory Status Epilepticus: 50-200µg/kg/hour"
+    },
+    {
+        "name": "Milrinone",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 10.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 0.375,
+        "reference": "50 mcg/kg loading dose by IV push over 10 minutes, then 0.375-0.75 mcg/kg/min IV"
+    },
+    {
+        "name": "Morphine",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 50.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 10.0,
+        "reference": "Initial 10 to 20micrograms/kg/hour"
+    },
+    {
+        "name": "NTG",
+        "doseUnit": "μg/min",
+        "rateUnit": 0,
+        "drugAmount": 50.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "5 µg/min, increase by 5 µg/min q3-5min up to 20 µg/min, then increase by 10 or 20 µg/min if need"
+    },
+    {
+        "name": "Naloxone",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 2.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 0.1,
+        "reference": "Maintenance Infusions: loading dose: 0.4mg 0.1 - 0.4mg/h"
+    },
+    {
+        "name": "Nicardipine",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 25.0,
+        "volume": 250.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "IV: 5 mg/hr initially, may be increased by 2.5 mg/hr every 15 minutes, not to exceed 15 mg/hr"
+    },
+    {
+        "name": "Nimodipine",
+        "doseUnit": "μg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 10.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 15.0,
+        "reference": "15 µg/kg/h via a central catheter for 2 hours, then 30 µg/kg/h"
+    },
+    {
+        "name": "Nitroprusside",
+        "doseUnit": "μg/kg/min",
+        "rateUnit": 0,
+        "drugAmount": 50.0,
+        "volume": 50.0,
+        "drugUnit": 0,
+        "defaultDose": 0.3,
+        "reference": "hypertensive crisis: Initial rate: 0.3 mcg/kg/min; evaluate BP for at least 5 minutes\nNot to exceed 10 mcg/kg/min"
+    },
+    {
+        "name": "Norepinephrine",
+        "doseUnit": "μg/min",
+        "rateUnit": 0,
+        "drugAmount": 8.0,
+        "volume": 250.0,
+        "drugUnit": 0,
+        "defaultDose": 8.0,
+        "reference": "Adults: 2-20 µg/min\nStart at 8 µg/min, and titrate to desired MAP(>65)"
+    },
+    {
+        "name": "Octreotide",
+        "doseUnit": "μg/hr",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 500.0,
+        "drugUnit": 2,
+        "defaultDose": 25.0,
+        "reference": "Gastrointestinal bleeding 50 - 100 ug IV bolus 25 - 50 ug/hour IV infusion for 1 to 5 days"
+    },
+    {
+        "name": "Pantoprazole",
+        "doseUnit": "mg/hr",
+        "rateUnit": 0,
+        "drugAmount": 80.0,
+        "volume": 100.0,
+        "drugUnit": 0,
+        "defaultDose": 8.0,
+        "reference": "8mg/hr"
+    },
+    {
+        "name": "Phenylephrine",
+        "doseUnit": "mg/min",
+        "rateUnit": 0,
+        "drugAmount": 100.0,
+        "volume": 200.0,
+        "drugUnit": 0,
+        "defaultDose": 0.04,
+        "reference": "Bolus dose: hypotension or shock: 0.1-0.5mg (100-500 mcg) as slow IV direct injection q10-15min PSVT: 0.5-1mg as rapid direct IV injection q60-90 seconds IV infusion: 0.04-0.18mg/min (40-180 mcg/min)"
+    },
+    {
+        "name": "Propofol",
+        "doseUnit": "mg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 200.0,
+        "volume": 20.0,
+        "drugUnit": 0,
+        "defaultDose": 0.6,
+        "reference": "ICU sedation(intubated patients): 0.3 to 3 mg/kg/hr"
+    },
+    {
+        "name": "Salbutamol",
+        "doseUnit": "μg/min",
+        "rateUnit": 0,
+        "drugAmount": 5.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 5.0,
+        "reference": "5 mcg/min, increase by 5 mcg/min to a maximum of 20 mcg/min"
+    },
+    {
+        "name": "Theophylline",
+        "doseUnit": "mg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 500.0,
+        "drugUnit": 0,
+        "defaultDose": 0.4,
+        "reference": "The dose must be individualized according to serum theophylline level (10-20 mcg/mL).\nAdult: loading dose: 4.6 mg/kg over 30 min, maintenance: 0.4 mg/kg/hr, MAX dose 900 mg/day"
+    },
+    {
+        "name": "Thiopental",
+        "doseUnit": "mg/kg/hr",
+        "rateUnit": 0,
+        "drugAmount": 500.0,
+        "volume": 20.0,
+        "drugUnit": 0,
+        "defaultDose": 3.0,
+        "reference": "Loading Dose: 2-3 mg/kg for barbiturate-induced coma, Maintenance Dose: 3-5 mg/kg/hour (may be as high as 15mg/kg/hour)"
+    }
+]
